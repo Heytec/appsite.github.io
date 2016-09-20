@@ -1,0 +1,35 @@
+.jumbotron{
+
+  background-image: url(images/landphoto.jpg);
+  text-align: center;
+  color: white;
+
+
+}
+#email{
+  width: 300px
+}
+
+
+.card-img-top{
+
+  width: 350px;
+  height: 242px;
+}
+
+
+#google{
+  width: 200px
+}
+
+#footer{
+  background-color: aqua;
+  padding-top: 50px;
+  margin-top: 50px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+body{
+  position: relative;
+}
